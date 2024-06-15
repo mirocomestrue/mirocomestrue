@@ -2,9 +2,9 @@
 
 ## Introduction
 - 💻 I'm a back-end engineer with 3 years of work experience.
-- 🔭 I’m currently working on IAM(Identification and Authorization Manager) Service for Cloud system.
-- 🌱 I’m currently learning Reactive Streams / Functional Programming
-- 🐱 I'm a cat lover and I have the cutest cat in the worldddd...
+- 🔭 I’m currently working on IAM(Identification and Authorization Manager) Service for Private cloud system.
+- 🌱 I’m currently learning Reactive Streams / Functional Programming / Kubernetes
+- 🐱 I'm a cat lover and I have the cutest cat in the world❣
 
 ## Skills
 <img src="https://img.shields.io/badge/Java-orange?style=flat"/> <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white"/>
